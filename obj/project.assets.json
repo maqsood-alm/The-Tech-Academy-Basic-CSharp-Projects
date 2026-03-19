@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\CSharpProjects\\AssignmentApp\\AssignmentApp.csproj",
       "projectName": "AssignmentApp",
       "projectPath": "C:\\Users\\user\\Documents\\GitHub\\CSharpProjects\\AssignmentApp\\AssignmentApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Documents\\GitHub\\CSharpProjects\\AssignmentApp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\QuittableApp\\QuittableApp.csproj",
+      "projectName": "QuittableApp",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\QuittableApp\\QuittableApp.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\QuittableApp\\obj\\",
+>>>>>>> a8e05d7 (Completed Quittable Assignment)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

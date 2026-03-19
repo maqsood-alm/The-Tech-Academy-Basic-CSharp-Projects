@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\QuittableApp\bin\Debug\net10.0\QuittableApp.exe
+C:\Users\user\Documents\GitHub\QuittableApp\bin\Debug\net10.0\QuittableApp.deps.json
+C:\Users\user\Documents\GitHub\QuittableApp\bin\Debug\net10.0\QuittableApp.runtimeconfig.json
+C:\Users\user\Documents\GitHub\QuittableApp\bin\Debug\net10.0\QuittableApp.dll
+C:\Users\user\Documents\GitHub\QuittableApp\bin\Debug\net10.0\QuittableApp.pdb
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.dll
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\refint\QuittableApp.dll
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.pdb
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\QuittableApp.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\QuittableApp\obj\Debug\net10.0\ref\QuittableApp.dll

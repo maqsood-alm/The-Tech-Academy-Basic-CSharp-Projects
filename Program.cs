@@ -1,28 +1,53 @@
-﻿using System;
+using System; // Allows us to use basic system functions like Console.WriteLine
 
-// Class that performs math
-class MathClass
+// Define an interface named Quittable
+// Interfaces only contain method signatures (no implementation)
+interface IQuittable
 {
-// Method that takes two integers
-public void DoMath(int firstNumber, int secondNumber)
-{
-int result = firstNumber * 2; // Math operation
+// Define a method called Quit with no return value
+void Quit();
+}
 
-Console.WriteLine("Result: " + result); // Show result
-Console.WriteLine("Second number: " + secondNumber); // Show second number
+// Define an Employee class
+// This class implements the IQuittable interface
+class Employee : IQuittable
+{
+// Property for Employee Name
+public string Name { get; set; }
+
+// Property for Employee ID
+public int Id { get; set; }
+
+// Implement the Quit() method from the interface
+public void Quit()
+{
+// This is what happens when Quit() is called
+Console.WriteLine($"{Name} (ID: {Id}) has quit the job.");
 }
 }
 
+// Main program class
 class Program
 {
+// Entry point of the console application
 static void Main(string[] args)
 {
-MathClass obj = new MathClass(); // Create object
+// Create an Employee object
+Employee emp = new Employee();
 
-obj.DoMath(5, 10); // Normal call
+// Assign values to properties
+emp.Name = "Maqsood Ali";
+emp.Id = 101;
 
-obj.DoMath(firstNumber: 7, secondNumber: 20); // Named parameters
+// Use polymorphism:
+// Create an object of type IQuittable
+// Even though the object is Employee, we refer to it as IQuittable
+IQuittable quittableEmp = emp;
 
-Console.ReadLine(); // Pause
+// Call the Quit() method using the interface reference
+quittableEmp.Quit();
+
+// Pause the console so output stays visible
+Console.ReadLine();
 }
 }
