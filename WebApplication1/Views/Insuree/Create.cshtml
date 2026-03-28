@@ -1,0 +1,18 @@
+﻿@model WebApplication1.Models.Insuree
+
+<h2>Insurance Quote Form</h2>
+
+<form asp-action="Create" method="post">
+    <div>@Html.LabelFor(m => m.FirstName) @Html.TextBoxFor(m => m.FirstName)</div>
+    <div>@Html.LabelFor(m => m.LastName) @Html.TextBoxFor(m => m.LastName)</div>
+    <div>@Html.LabelFor(m => m.EmailAddress) @Html.TextBoxFor(m => m.EmailAddress)</div>
+    <div>@Html.LabelFor(m => m.DateOfBirth) @Html.TextBoxFor(m => m.DateOfBirth, "{0:yyyy-MM-dd}", new { type = "date" })</div>
+    <div>@Html.LabelFor(m => m.CarYear) @Html.TextBoxFor(m => m.CarYear)</div>
+    <div>@Html.LabelFor(m => m.CarMake) @Html.TextBoxFor(m => m.CarMake)</div>
+    <div>@Html.LabelFor(m => m.CarModel) @Html.TextBoxFor(m => m.CarModel)</div>
+    <div>@Html.LabelFor(m => m.SpeedingTickets) @Html.TextBoxFor(m => m.SpeedingTickets)</div>
+    <div>@Html.LabelFor(m => m.DUI) @Html.CheckBoxFor(m => m.DUI)</div>
+    <div>@Html.LabelFor(m => m.CoverageType) @Html.TextBoxFor(m => m.CoverageType)</div>
+    @Html.HiddenFor(m => m.Quote)
+    <button type="submit">Submit</button>
+</form>
