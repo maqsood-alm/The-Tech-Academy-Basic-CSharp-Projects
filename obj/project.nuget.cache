@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "AXy45Qcilr8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\CSharpProjects\\AssignmentApp\\AssignmentApp.csproj",
+=======
+  "dgSpecHash": "AiT8Ad6eLD0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\QuittableApp\\QuittableApp.csproj",
+>>>>>>> a8e05d7 (Completed Quittable Assignment)
+  "expectedPackageFiles": [],
+  "logs": []
+}

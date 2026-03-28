@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\bin\Debug\net10.0\OperatorOverloadApp.exe
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\bin\Debug\net10.0\OperatorOverloadApp.deps.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\bin\Debug\net10.0\OperatorOverloadApp.runtimeconfig.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\bin\Debug\net10.0\OperatorOverloadApp.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\bin\Debug\net10.0\OperatorOverloadApp.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.sourcelink.json
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\refint\OperatorOverloadApp.dll
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.pdb
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\OperatorOverloadApp.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\The-Tech-Academy-Basic-CSharp-Projects\OperatorOverloadApp\obj\Debug\net10.0\ref\OperatorOverloadApp.dll

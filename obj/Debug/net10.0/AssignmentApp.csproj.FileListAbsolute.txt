@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\bin\Debug\net10.0\AssignmentApp.exe
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\bin\Debug\net10.0\AssignmentApp.deps.json
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\bin\Debug\net10.0\AssignmentApp.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\bin\Debug\net10.0\AssignmentApp.dll
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\bin\Debug\net10.0\AssignmentApp.pdb
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.dll
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\refint\AssignmentApp.dll
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.pdb
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\AssignmentApp.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\CSharpProjects\AssignmentApp\obj\Debug\net10.0\ref\AssignmentApp.dll
